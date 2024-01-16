@@ -1,4 +1,5 @@
 #!/bin/bash
+#!edit!
 
 echo -e "\033[2J\033[3;1f"
 
